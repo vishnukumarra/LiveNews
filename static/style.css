@@ -1,0 +1,26 @@
+.container{
+    border-radius: 10px;
+    
+    margin-bottom: 2px;
+    -webkit-box-shadow: 10px 10px 9px 0px rgba(148,146,148,1);
+-moz-box-shadow: 10px 10px 9px 0px rgba(148,146,148,1);
+box-shadow: 10px 10px 9px 0px rgba(148,146,148,1);
+width: 100%;
+display: flex;
+}
+
+.details{
+    padding: 20px;
+    justify-content: center;
+    flex: 1;
+}
+
+.images{
+padding: 20px;
+ flex: 1;
+ width: 200px;
+}
+.details {
+    padding: 20px;
+    flex: 1;
+   }
